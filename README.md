@@ -1,5 +1,5 @@
 # Bitcoin Weighted Price Forecast
-<p>This project is an attempt to forecast the monthly weighted price of the cryptocurrency Bitcoin. It is an assignment submission for the Flatiron school module 4 project.</p>
+<p>This project is an attempt to forecast the monthly weighted price of the cryptocurrency Bitcoin. It uses the SARIMA time series forecasting method, as well as Facebook Prophet. The data was obtained from <a href="https://www.kaggle.com/mczielinski/bitcoin-historical-data">Kaggle</a>. This is an assignment submission for the Flatiron school module 4 project.</p>
 
 ## Getting Started
 <p>Both files are in the .ipynb format and were made in Jupyter Lab using the dark theme; so color schemes may be difficult to see on lighter themed environments.</br></br>
