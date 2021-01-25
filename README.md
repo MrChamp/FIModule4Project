@@ -1,5 +1,4 @@
 # Bitcoin Weighted Price Forecast
-[![Only 1245Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 
 <p>This project is an attempt to forecast the monthly weighted price of the cryptocurrency Bitcoin. It is an assignment submission for the Flatiron school module 4 project.</p>
 
