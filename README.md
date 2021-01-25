@@ -7,7 +7,9 @@ The "Fbp.ipynb" file is the Facebook Prophet forecast, and the "mod4Project.ipyn
 
 ## Prerequisites
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
- - Built with Jupyter Lab
+ - Built with Jupyter Lab version 2.2.6
+## Installing
+<p>Simply download and run locally with Jupyter Lab or Jupyter Notebook</p>
 
 ## Authors
 - MrChamp
