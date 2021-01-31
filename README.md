@@ -2,11 +2,9 @@
 <p>This project is an attempt to forecast the monthly weighted price of the cryptocurrency Bitcoin. It uses the SARIMA time series forecasting method, as well as Facebook Prophet. The data were obtained from <a href="https://www.kaggle.com/mczielinski/bitcoin-historical-data">Kaggle</a>. This is an assignment submission for the Flatiron school module 4 project.</p>
 
 ## Contents
-<p><ol>
  <ul>- FBProphet Notebook</ul>
  <ul>- Custom SARIMA Model Notebook</ul>
  <ul>- Non-technical Powerpoint Presentation</ul>
-</ol></p>
 
 
 ## Getting Started
