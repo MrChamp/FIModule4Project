@@ -3,9 +3,9 @@
 
 ## Contents
 <p><ol>
- <ul>FBProphet Notebook</ul>
- <ul>Custom SARIMA Model Notebook</ul>
- <ul>Non-technical Powerpoint Presentation</ul>
+ <ul>- FBProphet Notebook</ul>
+ <ul>- Custom SARIMA Model Notebook</ul>
+ <ul>- Non-technical Powerpoint Presentation</ul>
 </ol></p>
 
 
