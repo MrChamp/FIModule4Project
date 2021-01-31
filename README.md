@@ -17,5 +17,7 @@ The "Fbp.ipynb" file is the Facebook Prophet forecast, and the "mod4Project.ipyn
 ## Installing
 <p>Simply download and run locally with Jupyter Lab or Jupyter Notebook</p>
 
+## Writeup
+https://steve699777341.wordpress.com/2021/01/31/flatiron-module-4-project-writeup/
 ## Authors
 - MrChamp
